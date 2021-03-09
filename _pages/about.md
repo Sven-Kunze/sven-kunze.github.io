@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Alfred-Weber-Institute for Economics[https://www.uni-heidelberg.de/fakultaeten/wiso/awi/index_en.html] at Heidelberg University. 
+I am a PhD student at the [Alfred-Weber-Institute for Economics](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/index_en.html) at [Heidelberg University](https://www.uni-heidelberg.de/en). 
