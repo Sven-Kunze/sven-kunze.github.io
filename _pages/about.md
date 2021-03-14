@@ -21,4 +21,10 @@ Distortions in Aid Allocation of United Nations Flash Appeals: Evidence from the
 
 Disastrous Discretion: Ambiguous Decision Situations Foster Political Favoritism, *KOF Working Papers*, 2021, 491 (with Stephan A. Schneider). [[Link]](https://doi.org/10.3929/ethz-b-000468932)
 
-# Further Research Projects 
+# Work in Progress
+
+Sectoral Flood Impacts in Europe - Insights from a new Spatial Sectoral GDP Dataset (with Aurélien Saussay and Leonie Wenz).
+
+Analyzing the Effectiveness of Emergency Aid from Outer Space (with Vera Z. Eichenauer and Andreas Fuchs).
+
+ 
