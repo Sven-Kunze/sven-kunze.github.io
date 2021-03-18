@@ -12,7 +12,7 @@ Welcome! I am a PhD student in Economics at the [Alfred-Weber-Institute for Econ
 
 
 
-# Publications
+## Publications
 
 Unraveling the Effects of Tropical Cyclones on Economic Sectors Worldwide: Direct and Indirect Impacts, *Environmental and Resource Economics*, 2021. [[Open Access]](https://doi.org/10.1007/s10640-021-00541-5)
 
@@ -20,13 +20,13 @@ Distortions in Aid Allocation of United Nations Flash Appeals: Evidence from the
 
 
 
-# Working Papers
+## Working Papers
 
 Disastrous Discretion: Ambiguous Decision Situations Foster Political Favoritism, *KOF Working Papers*, 2021, 491 (with Stephan A. Schneider). [[Link]](https://doi.org/10.3929/ethz-b-000468932)
 
 
 
-# Work in Progress
+## Work in Progress
 
 Sectoral Flood Impacts in Europe - Insights from a new Spatial Sectoral GDP Dataset (with Aurélien Saussay and Leonie Wenz).
 
@@ -38,7 +38,7 @@ Subnational Growth Effects of Tropical Cyclones (with Matthias Kalkuhl and Leoni
 
 
 
-# Teaching
+## Teaching
 
 Macroeconomics (Bachelor Tutorial): Winter term (2016, 2017, 2018, 2019, 2020)
 
