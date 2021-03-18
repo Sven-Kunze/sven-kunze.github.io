@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at the [Alfred-Weber-Institute for Economics](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/index_en.html) at [Heidelberg University](https://www.uni-heidelberg.de/en). I am interested in the empirical analysis of (climatic) disaster impacts on the society. For my analyses, I use geospatial, climatic and socio-economic data and methods. In November 2020 I submitted my PhD thesis “Geospatial Analysis of Natural Disasters: Economic Impacts, Societal Responses, and Political Bias” which was supervised by [Axel Dreher](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/dreher.html) and [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html). 
+Welcome! I am a PhD student in Economics at the [Alfred-Weber-Institute for Economics](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/index_en.html) at [Heidelberg University](https://www.uni-heidelberg.de/en). I am interested in the empirical analysis of (climatic) disaster impacts on the society. For my research, I use geospatial, climatic and socio-economic data and methods. In November 2020 I submitted my PhD thesis “Geospatial Analysis of Natural Disasters: Economic Impacts, Societal Responses, and Political Bias” which was supervised by [Axel Dreher](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/dreher.html) and [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html). 
 
 
 
@@ -32,7 +32,7 @@ Sectoral Flood Impacts in Europe - Insights from a new Spatial Sectoral GDP Data
 
 Analyzing the Effectiveness of Emergency Aid from Outer Space (with Vera Z. Eichenauer and Andreas Fuchs).
 
-Natural Disaster Risk Exposure of Colonial Settlers (with Johannes Matzat). 
+Choosing the right spot? Natural Disaster Risk Exposure of Colonial Settlers (with Johannes Matzat). 
 
 Subnational Growth Effects of Tropical Cyclones (with Matthias Kalkuhl and Leonie Wenz).
 
