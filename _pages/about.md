@@ -16,7 +16,9 @@ Please find my current CV [here](https://sven-kunze.github.io/files/CV_SvenKunze
 
 ## Publications
 
-Unraveling the Effects of Tropical Cyclones on Economic Sectors Worldwide: Direct and Indirect Impacts, **2021**, *Environmental and Resource Economics*, 78:545–569. [[Open Access]](https://doi.org/10.1007/s10640-021-00541-5)
+[Geospatial Analysis of Natural Disasters: Economic Impacts, Societal Responses, and Political Bias](https://doi.org/10.11588/heidok.00030140), **2021**, PhD thesis, Heidelberg. 
+
+[Unraveling the Effects of Tropical Cyclones on Economic Sectors Worldwide: Direct and Indirect Impacts](https://sven-kunze.github.io/TC_Sectors/), **2021**, *Environmental and Resource Economics*, 78:545–569. [[Open Access]](https://doi.org/10.1007/s10640-021-00541-5)
 
 Distortions in Aid Allocation of United Nations Flash Appeals: Evidence from the 2015 Nepal Earthquake, **2020**, *World Development*, 136 (105023) (with [Vera Z. Eichenauer](https://sites.google.com/view/vera-eichenauer/home), [Andreas Fuchs](http://www.andreas-fuchs.net/), and [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)). [[Link]](https://doi.org/10.1016/j.worlddev.2020.105023)
 
@@ -25,6 +27,8 @@ Distortions in Aid Allocation of United Nations Flash Appeals: Evidence from the
 ## Working Papers
 
 Disastrous Discretion: Ambiguous Decision Situations Foster Political Favoritism, **2021**, *KOF Working Papers*, 491 (with [Stephan A. Schneider](https://kof.ethz.ch/das-institut/personen/person-detail.MjUwMTg5.TGlzdC81NzgsODQ4OTAwOTg=.html)). [[Link]](https://doi.org/10.3929/ethz-b-000468932)
+
+Living on the Stormy Side? Storm Surges and the Distribution of Coastal Population, **2021** (with [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html))
 
 
 
