@@ -16,7 +16,7 @@ Please find my current CV [here](https://sven-kunze.github.io/files/CV_SvenKunze
 
 ## Publications
 
-Geospatial Analyses of Natural Disasters: Economic Impacts, Societal Responses, and Political Bias, **2021**, PhD Dissertation, Heidelberg, [[Open Access]](https://doi.org/10.11588/heidok.00030140)
+Geospatial Analyses of Natural Disasters: Economic Impacts, Societal Responses, and Political Bias, **2021**, PhD Dissertation, Heidelberg. [[Open Access]](https://doi.org/10.11588/heidok.00030140)
 
 Unraveling the Effects of Tropical Cyclones on Economic Sectors Worldwide: Direct and Indirect Impacts, **2021**, *Environmental and Resource Economics*, 78:545–569. [[Open Access]](https://doi.org/10.1007/s10640-021-00541-5)
 
