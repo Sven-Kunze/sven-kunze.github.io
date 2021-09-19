@@ -1,9 +1,9 @@
 ---
 title: "Sven Kunze - Datasets"
-layout: textlay
+layout: archive
 excerpt: "Sven Kunze -- Datasets"
 sitemap: false
-permalink: /data/
+permalink: /datasets/
 ---
 
 # Datasets
