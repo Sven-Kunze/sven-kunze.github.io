@@ -1,7 +1,7 @@
 # main links links
-#main:
-#  - title: "Publications"
-#    url: /publications/
+main:
+  - title: "Publications"
+    url: /publications/
 
 #  - title: "Research"
  #   url: /research/    
@@ -9,8 +9,8 @@
 #  - title: "Teaching"
  #   url: /teaching/    
     
-#  - title: "Data"
- #   url: /data/
+  - title: "Datasets"
+   url: /datasets/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
