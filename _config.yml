@@ -187,9 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-   data:
+   datasets:
    output: true
-   permalink: /:collection/:patha/
+   permalink: /:collection/:path/
     
 
 
