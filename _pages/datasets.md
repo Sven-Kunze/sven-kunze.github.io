@@ -11,7 +11,7 @@ permalink: /data/
 
 ### Tropical Cyclone Wind Speed Data
 
-This dataset contains different wind speed intensity proxies as derived in [Kunze (2021)]((https://doi.org/10.1007/s10640-021-00541-5) at the country-year level from 1950-2015.
+This dataset contains different wind speed intensity proxies as derived in [Kunze (2021)](https://doi.org/10.1007/s10640-021-00541-5) at the country-year level from 1950-2015.
 
 If you use this data please cite: 
 
