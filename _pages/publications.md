@@ -11,6 +11,11 @@ Geospatial Analyses of Natural Disasters: Economic Impacts, Societal Responses, 
 
 Unraveling the Effects of Tropical Cyclones on Economic Sectors Worldwide: Direct and Indirect Impacts, **2021**, *Environmental and Resource Economics*, 78:545–569. [[Open Access]](https://doi.org/10.1007/s10640-021-00541-5)
 
+<details>
+<summary>Abstract</summary>
+This is a dropdown with text!
+</details>
+
 Distortions in Aid Allocation of United Nations Flash Appeals: Evidence from the 2015 Nepal Earthquake, **2020**, *World Development*, 136 (105023) (with [Vera Z. Eichenauer](https://sites.google.com/view/vera-eichenauer/home), [Andreas Fuchs](http://www.andreas-fuchs.net/), and [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)). [[Link]](https://doi.org/10.1016/j.worlddev.2020.105023)
 
 
