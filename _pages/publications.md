@@ -13,7 +13,9 @@ Unraveling the Effects of Tropical Cyclones on Economic Sectors Worldwide: Direc
 
 <details>
 <summary>Abstract</summary>
+  <div style="text-align: right">
 This paper examines the current, lagged, and indirect effects of tropical cyclones on annual sectoral growth worldwide. The main explanatory variable is a new damage measure for local tropical cyclone intensity based on meteorological data weighted for individual sectoral exposure, which is included in a panel analysis for a maximum of 205 countries over the 1970–2015 period. I find a significantly negative influence of tropical cyclones on two sector aggregates including agriculture, as well as trade and tourism. In subsequent years, tropical cyclones negatively affect the majority of all sectors. However, the Input–Output analysis shows that production processes are sticky and indirect economic effects are limited.
+    </div>
 </details>
 
 Distortions in Aid Allocation of United Nations Flash Appeals: Evidence from the 2015 Nepal Earthquake, **2020**, *World Development*, 136 (105023) (with [Vera Z. Eichenauer](https://sites.google.com/view/vera-eichenauer/home), [Andreas Fuchs](http://www.andreas-fuchs.net/), and [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)). [[Link]](https://doi.org/10.1016/j.worlddev.2020.105023)
