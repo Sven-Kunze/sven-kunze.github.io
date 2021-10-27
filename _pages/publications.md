@@ -15,7 +15,7 @@ author_profile: true
  
 This paper examines the current, lagged, and indirect effects of tropical cyclones on annual sectoral growth worldwide. The main explanatory variable is a new damage measure for local tropical cyclone intensity based on meteorological data weighted for individual sectoral exposure, which is included in a panel analysis for a maximum of 205 countries over the 1970–2015 period. I find a significantly negative influence of tropical cyclones on two sector aggregates including agriculture, as well as trade and tourism. In subsequent years, tropical cyclones negatively affect the majority of all sectors. However, the Input–Output analysis shows that production processes are sticky and indirect economic effects are limited.  
 
----
+
 ### Distortions in Aid Allocation of United Nations Flash Appeals: Evidence from the 2015 Nepal Earthquake
 with [Vera Z. Eichenauer](https://sites.google.com/view/vera-eichenauer/home), [Andreas Fuchs](http://www.andreas-fuchs.net/), and [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)  
 
@@ -24,7 +24,7 @@ with [Vera Z. Eichenauer](https://sites.google.com/view/vera-eichenauer/home), [
 
 We examine the design and implementation of the United Nations Flash Appeal triggered in response to the highly destructive 2015 Nepal earthquake. We consider how local need and various distortions affect the proposed project number, the proposed financial amount, and the subsequent funding decision by aid donors. Specifically, we investigate the extent to which the allocation of this humanitarian assistance follows municipalities’ affectedness and their physical and socio-economic vulnerabilities. We then analyze potential ethnic, religious, and political distortions. Our results show that aid allocation is associated with geophysical estimates of the earthquake damage. Controlled for disaster impact, however, aid allocation shows little regard for the specific socio-economic and physical vulnerabilities. It is also worrisome that the allocation of the flash appeal commitments favors municipalities dominated by higher castes and disadvantages those with a greater distance to the Nepali capital Kathmandu.
 
----
+
 ## Working Papers
 
 ### Disastrous Discretion: Ambiguous Decision Situations Foster Political Favoritism
@@ -36,14 +36,14 @@ with [Stephan A. Schneider](https://kof.ethz.ch/das-institut/personen/person-det
 
 Allocation decisions are vulnerable to political influence, but it is unclear in which situations politicians use their discretionary power in a partisan manner. We analyze the allocation of presidential disaster declarations in the United States, exploiting the spatiotemporal randomness of hurricane strikes from 1965–2018 along with changes in political alignment. We show that decisions are not biased when disasters are either very strong or weak, when relief provision is clearly necessary or not. Only in ambiguous situations, after medium-intensity hurricanes, do areas governed by presidents’ co-partisans receive favorable treatment. This hump-shaped political bias explains 10 percent of total relief spending.
 
----
+
 ### Living on the Stormy Side - Storm Surge and Distribution of Coastal Population 
 
 with [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)
 
 People in low-lying coastal areas live under the great threat of damage due to coastal flooding from tropical cyclones. Understanding how coastal population settlements react to such events is of high importance for society to consider future adaptation strategies. Here we generate a new global hydrodynamic data set on tropical cyclone-generated storm surge damage for the period 1850-2010. By combining this data with spatial data on human populations, we analyze the influence of storm surge damage on the rural, urban, and total populations in low elevation coastal zones. We find that 8\% of the global coastal population shifted away per decade as a consequence of storm surges, on average. We show that the exposed coastal population appears to have adapted over time by reducing its exposure in recent decades. This finding applies to all regions other than North America, Oceania, and Western Asia. 
 
----
+
 
 
 ## Work in Progress
