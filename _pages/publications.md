@@ -11,6 +11,8 @@ Geospatial Analyses of Natural Disasters: Economic Impacts, Societal Responses, 
 
 Unraveling the Effects of Tropical Cyclones on Economic Sectors Worldwide: Direct and Indirect Impacts, **2021**, *Environmental and Resource Economics*, 78:545–569. [[Open Access]](https://doi.org/10.1007/s10640-021-00541-5)
 
+<img align="right" width="200" src="https://apaskulin.github.io/waxtechnical/images/pup.jpg">
+
 <details>
 <summary>Abstract</summary>
   <div style="text-align: justify">
