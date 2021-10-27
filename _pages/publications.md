@@ -11,7 +11,7 @@ author_profile: true
 ### Unraveling the Effects of Tropical Cyclones on Economic Sectors Worldwide: Direct and Indirect Impacts
 
 *Environmental and Resource Economics*, 2021, 78:545–569. 
- [[Open Access]](https://doi.org/10.1007/s10640-021-00541-5)
+ [[Open Access]](https://doi.org/10.1007/s10640-021-00541-5) [[Data]](https://sven-kunze.github.io/datasets/)
  
 This paper examines the current, lagged, and indirect effects of tropical cyclones on annual sectoral growth worldwide. The main explanatory variable is a new damage measure for local tropical cyclone intensity based on meteorological data weighted for individual sectoral exposure, which is included in a panel analysis for a maximum of 205 countries over the 1970–2015 period. I find a significantly negative influence of tropical cyclones on two sector aggregates including agriculture, as well as trade and tourism. In subsequent years, tropical cyclones negatively affect the majority of all sectors. However, the Input–Output analysis shows that production processes are sticky and indirect economic effects are limited.  
 
