@@ -6,7 +6,7 @@ author_profile: true
 layout: single
 classes: wide
 header:
-  overlay_image: images/IMG_1737.JPG
+  overlay_image: https://github.com/Sven-Kunze/sven-kunze.github.io/blob/96d894d86afd1b4b592e83218af85fcb70b368dd/images/IMG_1737.JPG
 
 ---
 
