@@ -31,8 +31,10 @@ We examine the design and implementation of the United Nations Flash Appeal trig
 
 with [Stephan A. Schneider](https://www.schneiderst.de/)  
 
-*CESifo Working Paper*, 2022, 9710. *Revise and Resubmit at The Review of Economics and Statistics*
+*CESifo Working Paper*, 2022, 9710. 
 [[Link]](https://www.cesifo.org/en/publikationen/2022/working-paper/disastrous-discretion-ambiguous-decision-situations-foster)
+
+*Revise & Resubmit at The Review of Economics and Statistics*
 
 Allocation decisions are vulnerable to political influence, but it is unclear in which situations politicians use their discretionary power in a partisan manner. We analyze the allocation of presidential disaster declarations in the United States, exploiting the spatiotemporal randomness of hurricane strikes from 1965–2018 along with changes in political alignment. We show that decisions are not biased when disasters are unambiguously strong or weak. Only in ambiguous situations, after medium-intensity hurricanes, do areas governed by presidents’ co-partisans receive up to twice as many declarations. This political bias explains 10 percent of total relief spending, totaling USD 450 million per year.
 
