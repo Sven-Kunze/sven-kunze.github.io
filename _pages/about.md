@@ -5,6 +5,9 @@ title: ""
 author_profile: true
 layout: single
 classes: wide
+header:
+  overlay_image: /images/IMG_1737.JPG
+
 
 ---
 
