@@ -9,7 +9,7 @@ author_profile: true
 
 
 ### Unraveling the Effects of Tropical Cyclones on Economic Sectors Worldwide: Direct and Indirect Impacts
-<img align="right" src="/images/Paper1.png" width ="300">
+<img align="right" src="/images/Paper1.png" width ="350">
 
 *Environmental and Resource Economics*, 2021, 78:545–569. 
  [[Open Access]](https://doi.org/10.1007/s10640-021-00541-5) [[Data]](https://sven-kunze.github.io/datasets/)
@@ -22,7 +22,7 @@ This paper examines the current, lagged, and indirect effects of tropical cyclon
 ### Distortions in Aid Allocation of United Nations Flash Appeals: Evidence from the 2015 Nepal Earthquake
 with [Vera Z. Eichenauer](https://sites.google.com/view/vera-eichenauer/home), [Andreas Fuchs](http://www.andreas-fuchs.net/), and [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)  
 
-<img align="right" src="/images/Paper2.png" width ="300">
+<img align="right" src="/images/Paper2.png" width ="350">
 
 *World Development*, 2020, 136 (105023).
 [[Link]](https://doi.org/10.1016/j.worlddev.2020.105023)  
@@ -35,7 +35,7 @@ We examine the design and implementation of the United Nations Flash Appeal trig
 ### Disastrous Discretion: Ambiguous Decision Situations Foster Political Favoritism
 with [Stephan A. Schneider](https://www.schneiderst.de/)  
 
-<img align="right" src="/images/Paper4.png" width ="300">
+<img align="right" src="/images/Paper4.png" width ="350">
 
 *CESifo Working Paper*, 2022, 9710. 
 [[Link]](https://www.cesifo.org/en/publikationen/2022/working-paper/disastrous-discretion-ambiguous-decision-situations-foster)
@@ -48,7 +48,7 @@ Allocation decisions are vulnerable to political influence, but it is unclear in
 
 ### Living on the Stormy Side - Storm Surge and Distribution of Coastal Population 
 with [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)
-<img align="right" src="/images/Paper3.png" width ="300">
+<img align="right" src="/images/Paper3.png" width ="350">
 
 People in low-lying coastal areas live under the great threat of damage due to coastal flooding from tropical cyclones. Understanding how coastal population settlements react to such events is of high importance for society to consider future adaptation strategies. Here we generate a new global hydrodynamic data set on tropical cyclone-generated storm surge damage for the period 1850-2010. By combining this data with spatial data on human populations, we analyze the influence of storm surge damage on the rural, urban, and total populations in low elevation coastal zones. We find that 8 % of the global coastal population shifted away per decade as a consequence of storm surges, on average. We show that the exposed coastal population appears to have adapted over time by reducing its exposure in recent decades. This finding applies to all regions other than North America, Oceania, and Western Asia. 
 
