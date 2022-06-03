@@ -14,17 +14,21 @@ author_profile: true
 *Environmental and Resource Economics*, 2021, 78:545–569. 
  [[Open Access]](https://doi.org/10.1007/s10640-021-00541-5) [[Data]](https://sven-kunze.github.io/datasets/)
 
+<p style="text-align: justify;">
 This paper examines the current, lagged, and indirect effects of tropical cyclones on annual sectoral growth worldwide. The main explanatory variable is a new damage measure for local tropical cyclone intensity based on meteorological data weighted for individual sectoral exposure, which is included in a panel analysis for a maximum of 205 countries over the 1970–2015 period. I find a significantly negative influence of tropical cyclones on two sector aggregates including agriculture, as well as trade and tourism. In subsequent years, tropical cyclones negatively affect the majority of all sectors. However, the Input–Output analysis shows that production processes are sticky and indirect economic effects are limited.  
-
+</p>
 
 ### Distortions in Aid Allocation of United Nations Flash Appeals: Evidence from the 2015 Nepal Earthquake
 with [Vera Z. Eichenauer](https://sites.google.com/view/vera-eichenauer/home), [Andreas Fuchs](http://www.andreas-fuchs.net/), and [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)  
+
 <img align="right" src="/images/Paper2.png" width ="280" height = "350">
+
 *World Development*, 2020, 136 (105023).
 [[Link]](https://doi.org/10.1016/j.worlddev.2020.105023)  
 
+<p style="text-align: justify;">
 We examine the design and implementation of the United Nations Flash Appeal triggered in response to the highly destructive 2015 Nepal earthquake. We consider how local need and various distortions affect the proposed project number, the proposed financial amount, and the subsequent funding decision by aid donors. Specifically, we investigate the extent to which the allocation of this humanitarian assistance follows municipalities’ affectedness and their physical and socio-economic vulnerabilities. We then analyze potential ethnic, religious, and political distortions. Our results show that aid allocation is associated with geophysical estimates of the earthquake damage. Controlled for disaster impact, however, aid allocation shows little regard for the specific socio-economic and physical vulnerabilities. It is also worrisome that the allocation of the flash appeal commitments favors municipalities dominated by higher castes and disadvantages those with a greater distance to the Nepali capital Kathmandu.
-
+</p>
 
 ## Working Papers
 
