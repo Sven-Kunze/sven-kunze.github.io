@@ -63,9 +63,9 @@ People in low-lying coastal areas live under the great threat of damage due to c
 
 ## Work in Progress
 
-Sectoral Flood Impacts in Europe - Insights from a new Spatial Sectoral GDP Dataset (with Aurélien Saussay and Leonie Wenz).
+What drives agricultural land use change in Eurasia? (with Raushan Bokusheva).
 
-Climate Change Impacts on Russian Agriculture (with Raushan Bokusheva and Ariel Ortiz-Bobea).
+Sectoral Flood Impacts in Europe - Insights from a new Spatial Sectoral GDP Dataset (with Aurélien Saussay and Leonie Wenz).
 
 Choosing the right spot? Natural Disaster Risk Exposure of Colonial Settlers. 
 
