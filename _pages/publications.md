@@ -43,7 +43,7 @@ with [Stephan A. Schneider](https://www.schneiderst.de/)
 *CESifo Working Paper*, 2022, 9710. 
 [[Link]](https://www.cesifo.org/en/publikationen/2022/working-paper/disastrous-discretion-ambiguous-decision-situations-foster)
 
-*Revise & Resubmit at The Review of Economics and Statistics*
+*Conditionally Accepted at The Review of Economics and Statistics*
 
 *Press Coverage: [KOF Bulletin November 2022](https://kof.ethz.ch/en/news-and-events/kof-bulletin/kof-bulletin/2022/11/A-politicians-perfect-storm-when-disaster-relief-is-politically-biased.html)*
 
