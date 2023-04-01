@@ -16,10 +16,8 @@ with [Stephan A. Schneider](https://www.schneiderst.de/)
 *The Review of Economics and Statistics* (2023)
 [[Link]](https://doi.org/10.1162/rest_a_01319) 
 
-*Most recent version*: [[Link]](https://deliverypdf.ssrn.com/delivery.php?ID=108065093065091093011122065067025067032037017041086025023085010065083083064103001030057099100122006004105118094002009075127068116038000015045103087098071084085110089004055022112113066096075011119087067124099071031110118103083105095090109108097088096085&EXT=pdf&INDEX=TRUE)
+*Most recent ungated version*: [[Link]](https://deliverypdf.ssrn.com/delivery.php?ID=108065093065091093011122065067025067032037017041086025023085010065083083064103001030057099100122006004105118094002009075127068116038000015045103087098071084085110089004055022112113066096075011119087067124099071031110118103083105095090109108097088096085&EXT=pdf&INDEX=TRUE)
 
-*CESifo Working Paper*, 2022, 9710. 
-[[Link]](https://www.cesifo.org/en/publikationen/2022/working-paper/disastrous-discretion-ambiguous-decision-situations-foster)
 
 *Press Coverage: [KOF Bulletin November 2022](https://kof.ethz.ch/en/news-and-events/kof-bulletin/kof-bulletin/2022/11/A-politicians-perfect-storm-when-disaster-relief-is-politically-biased.html)*
 
