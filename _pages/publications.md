@@ -13,7 +13,8 @@ with [Stephan A. Schneider](https://www.schneiderst.de/)
 
 <img align="right" src="/images/Paper4.png" width ="350">
 
-*Accepted for publication at The Review of Economics and Statistics*
+*The Review of Economics and Statistics* (2023)
+[[Link]](https://doi.org/10.1162/rest_a_01319) 
 
 *Most recent version*: [[Link]](https://deliverypdf.ssrn.com/delivery.php?ID=108065093065091093011122065067025067032037017041086025023085010065083083064103001030057099100122006004105118094002009075127068116038000015045103087098071084085110089004055022112113066096075011119087067124099071031110118103083105095090109108097088096085&EXT=pdf&INDEX=TRUE)
 
@@ -50,17 +51,7 @@ We examine the design and implementation of the United Nations Flash Appeal trig
 
 <br clear="right"/>
 
-## Working Papers
 
-
-### Living on the Stormy Side - Storm Surge and Distribution of Coastal Population 
-with [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)
-
-<img align="right" src="/images/Paper3.png" width ="350" height="400">
-
-People in low-lying coastal areas live under the great threat of damage due to coastal flooding from tropical cyclones. Understanding how coastal population settlements react to such events is of high importance for society to consider future adaptation strategies. Here we generate a new global hydrodynamic data set on tropical cyclone-generated storm surge damage for the period 1850-2010. By combining this data with spatial data on human populations, we analyze the influence of storm surge damage on the rural, urban, and total populations in low elevation coastal zones. We find that 8 % of the global coastal population shifted away per decade as a consequence of storm surges, on average. We show that the exposed coastal population appears to have adapted over time by reducing its exposure in recent decades. This finding applies to all regions other than North America, Oceania, and Western Asia. 
-
-<br clear="right"/>
 
 
 ## Work in Progress
@@ -76,6 +67,20 @@ Subnational Growth Effects of Tropical Cyclones (with Leonie Wenz).
 
 
 <!--
+
+## Working Papers
+
+
+### Living on the Stormy Side - Storm Surge and Distribution of Coastal Population 
+with [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)
+
+<img align="right" src="/images/Paper3.png" width ="350" height="400">
+
+People in low-lying coastal areas live under the great threat of damage due to coastal flooding from tropical cyclones. Understanding how coastal population settlements react to such events is of high importance for society to consider future adaptation strategies. Here we generate a new global hydrodynamic data set on tropical cyclone-generated storm surge damage for the period 1850-2010. By combining this data with spatial data on human populations, we analyze the influence of storm surge damage on the rural, urban, and total populations in low elevation coastal zones. We find that 8 % of the global coastal population shifted away per decade as a consequence of storm surges, on average. We show that the exposed coastal population appears to have adapted over time by reducing its exposure in recent decades. This finding applies to all regions other than North America, Oceania, and Western Asia. 
+
+<br clear="right"/>
+
+
 Geospatial Analyses of Natural Disasters: Economic Impacts, Societal Responses, and Political Bias, **2021**, PhD Dissertation, Heidelberg. [[Open Access]](https://doi.org/10.11588/heidok.00030140)
 
 
