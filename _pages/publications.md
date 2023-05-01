@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-### Disastrous Discretion: Ambiguous Decision Situations Foster Political Favoritism
+### Disastrous Discretion: Political Bias in Relief Allocation Varies Substantially with Disaster Severity
 
 with [Stephan A. Schneider](https://www.schneiderst.de/)  
 
@@ -21,7 +21,7 @@ with [Stephan A. Schneider](https://www.schneiderst.de/)
 
 *Press Coverage: [KOF Bulletin November 2022](https://kof.ethz.ch/en/news-and-events/kof-bulletin/kof-bulletin/2022/11/A-politicians-perfect-storm-when-disaster-relief-is-politically-biased.html)*
 
-Allocation decisions are vulnerable to political influence, but it is unclear in which situations politicians use their discretionary power in a partisan manner. We analyze the allocation of presidential disaster declarations in the United States, exploiting the spatiotemporal randomness of hurricane strikes from 1965–2018 along with changes in political alignment. We show that decisions are not biased when disasters are unambiguously strong or weak. Only in ambiguous situations, after medium-intensity hurricanes, do areas governed by presidents’ co-partisans receive up to twice as many declarations. This political bias explains 10 percent of total relief spending, totaling USD 450 million per year.
+Allocation decisions are vulnerable to political influence, but it is unclear in which situations politicians use their discretionary power in a partisan manner. We analyze the allocation of presidential disaster declarations in the United States, exploiting the spatiotemporal randomness of all hurricane strikes from 1965-2018 along with changes in political alignment. We show that decisions are unbiased when disasters are either very strong or weak. Only after medium-intensity hurricanes do areas governed by presidents' co-partisans receive up to twice as many declarations. This hump-shaped political bias explains 8.3 percent of overall relief spending, totaling about USD 400 million per year.
 
 <br clear="right"/>
 
