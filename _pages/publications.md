@@ -59,9 +59,11 @@ with [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_er
 
 <img align="right" src="/images/Paper3.png" width ="350" height="400">
 
-*R&R Environmental Research Letters, 2023*
+*Accepted at Environmental Research Letters, 2023*
 
-People in low-lying coastal areas live under the great threat of damage due to coastal flooding from tropical cyclones. Understanding how coastal population settlements react to such events is of high importance for society to consider future adaptation strategies. Here we generate a new global hydrodynamic data set on tropical cyclone-generated storm surge flooding for the period 1851-2020. By combining this data with spatial data on human populations, we analyze the influence of storm surge flooding on the rural, urban, and total populations in low elevation coastal zones from 1941–2010. We find that per decade on average 9% of the exposed population in a 10x10 kilometer low elevation coastal zone moved away from the coast as a consequence of storm surge, while wind speed and rainfall have no effect. The majority of threatened population lives in Easter, South-Eastern, and Southern Asia. We show that the exposed coastal population appears to have adapted over time by reducing its exposure in recent decades. This finding applies to all regions other than North America, Oceania, and Western Asia. 
+People in low-lying coastal areas live under the great threat of damage due to coastal flooding from tropical cyclones. Understanding how coastal population settlements react to such events is of high importance for society to consider future adaptation strategies. Here we generate a new global hydrodynamic data set on tropical cyclone-generated storm surge flooding for the period 1851-2020. By combining this data with spatial data on human populations, we analyze the influence of the depth of storm surge flooding on the rural, urban, and total populations in low elevation coastal zones from 1941-2010.  
+We find that in response to a one standard deviation increase in storm surge flooding depth (0.43 meters), the exposed population in a 10x10 kilometer low elevation coastal zone decreases by around 970 individuals on average per decade. This reduction corresponds to 9\% of the average population living in an exposed grid cell. Tropical cyclone generated wind speed and rainfall do not influence the relocation of coastal populations.
+The majority of the threatened population lives in Easter, South-Eastern, and Southern Asia. We show that the exposed coastal population appears to have adapted over time by reducing its exposure in recent decades. This finding applies to all regions other than North America, Oceania, and Western Asia. 
 
 <br clear="right"/>
 
