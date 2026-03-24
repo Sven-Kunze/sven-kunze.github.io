@@ -13,7 +13,7 @@ with [Stephan A. Schneider](https://www.schneiderst.de/)
 
 <img align="right" src="/images/Paper4.png" width ="350">
 
-*The Review of Economics and Statistics* (2023)
+*The Review of Economics and Statistics 107.5* (2025)
 [[Link]](https://doi.org/10.1162/rest_a_01319) 
 
 *Most recent ungated version*: [[Link]](https://deliverypdf.ssrn.com/delivery.php?ID=108065093065091093011122065067025067032037017041086025023085010065083083064103001030057099100122006004105118094002009075127068116038000015045103087098071084085110089004055022112113066096075011119087067124099071031110118103083105095090109108097088096085&EXT=pdf&INDEX=TRUE)
@@ -21,9 +21,25 @@ with [Stephan A. Schneider](https://www.schneiderst.de/)
 
 *Press Coverage: [KOF Bulletin November 2022](https://kof.ethz.ch/en/news-and-events/kof-bulletin/kof-bulletin/2022/11/A-politicians-perfect-storm-when-disaster-relief-is-politically-biased.html)*
 
+*Awards: Winner of the [International Geneva Award 2026](https://www.linkedin.com/posts/snis_we-are-pleased-to-announce-that-dr-stephan-activity-7429905712320983041-xC1_) – Swiss Network for International Studies*
+
 Allocation decisions are vulnerable to political influence, but it is unclear in which situations politicians use their discretionary power in a partisan manner. We analyze the allocation of presidential disaster declarations in the United States, exploiting the spatiotemporal randomness of all hurricane strikes from 1965-2018 along with changes in political alignment. We show that decisions are unbiased when disasters are either very strong or weak. Only after medium-intensity hurricanes do areas governed by presidents' co-partisans receive up to twice as many declarations. This hump-shaped political bias explains 8.3 percent of overall relief spending, totaling about USD 400 million per year.
 
 <br clear="right"/>
+
+### The Global Long-Term Effects of Storm Surge Flooding on Human Settlements in Coastal Areas 
+with [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)
+
+<img align="right" src="/images/Paper3.png" width ="350" height="400">
+
+*Environmental Research Letters 19(2), 024016, 2024*
+
+People in low-lying coastal areas live under the great threat of damage due to coastal flooding from tropical cyclones. Understanding how coastal population settlements react to such events is of high importance for society to consider future adaptation strategies. Here we generate a new global hydrodynamic data set on tropical cyclone-generated storm surge flooding for the period 1851-2020. By combining this data with spatial data on human populations, we analyze the influence of the depth of storm surge flooding on the rural, urban, and total populations in low elevation coastal zones from 1941-2010.  
+We find that in response to a one standard deviation increase in storm surge flooding depth (0.43 meters), the exposed population in a 10x10 kilometer low elevation coastal zone decreases by around 970 individuals on average per decade. This reduction corresponds to 9\% of the average population living in an exposed grid cell. Tropical cyclone generated wind speed and rainfall do not influence the relocation of coastal populations.
+The majority of the threatened population lives in Easter, South-Eastern, and Southern Asia. We show that the exposed coastal population appears to have adapted over time by reducing its exposure in recent decades. This finding applies to all regions other than North America, Oceania, and Western Asia. 
+
+<br clear="right"/>
+
 
 ### Unraveling the Effects of Tropical Cyclones on Economic Sectors Worldwide: Direct and Indirect Impacts
  
@@ -54,18 +70,7 @@ We examine the design and implementation of the United Nations Flash Appeal trig
 
 ## Work in Progress
 
-### The Global Long-Term Effects of Storm Surge Flooding on Human Settlements in Coastal Areas 
-with [Eric Strobl](https://www.vwi.unibe.ch/ueber_uns/personen/prof_dr_strobl_eric/index_ger.html)
 
-<img align="right" src="/images/Paper3.png" width ="350" height="400">
-
-*Accepted at Environmental Research Letters, 2023*
-
-People in low-lying coastal areas live under the great threat of damage due to coastal flooding from tropical cyclones. Understanding how coastal population settlements react to such events is of high importance for society to consider future adaptation strategies. Here we generate a new global hydrodynamic data set on tropical cyclone-generated storm surge flooding for the period 1851-2020. By combining this data with spatial data on human populations, we analyze the influence of the depth of storm surge flooding on the rural, urban, and total populations in low elevation coastal zones from 1941-2010.  
-We find that in response to a one standard deviation increase in storm surge flooding depth (0.43 meters), the exposed population in a 10x10 kilometer low elevation coastal zone decreases by around 970 individuals on average per decade. This reduction corresponds to 9\% of the average population living in an exposed grid cell. Tropical cyclone generated wind speed and rainfall do not influence the relocation of coastal populations.
-The majority of the threatened population lives in Easter, South-Eastern, and Southern Asia. We show that the exposed coastal population appears to have adapted over time by reducing its exposure in recent decades. This finding applies to all regions other than North America, Oceania, and Western Asia. 
-
-<br clear="right"/>
 
 What drives agricultural land use change in Eurasia? (with Raushan Bokusheva and Olga Laiko).
 
@@ -73,7 +78,7 @@ Sectoral Flood Impacts in Europe - Insights from a new Spatial Sectoral GDP Data
 
 Choosing the right spot? Natural Disaster Risk Exposure of Colonial Settlers. 
 
-Subnational Growth Effects of Tropical Cyclones (with Leonie Wenz).
+Subnational Growth Effects of Tropical Cyclones (with Leonie Wenz and Christian Otto).
 
 
 
